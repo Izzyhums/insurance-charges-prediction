@@ -1,4 +1,4 @@
-# insurance-charges-prediction
+# health-insurance-charges-prediction
 "TechCrush Capstone  Predicting medical insurance charges using regression"
 
 Predicting Medical Insurance Charges
