@@ -29,7 +29,7 @@ Methodology
 Key Findings
 1. Smoking status is the single strongest predictor of charges — smokers pay ~4x more than non-smokers on average
    ($32,050 vs $8,434).
-2.BMI alone has minimal effect, but combined with smoking, it nearly doubles charges further (obese smokers: $41,558 vs    non-obese smokers: $21,363). 
+2. BMI alone has minimal effect, but combined with smoking, it nearly doubles charges further (obese smokers: $41,558 vs    non-obese smokers: $21,363). 
 3. Age contributes a steady, moderate increase in charges. 
 4. Sex, region, and number of children have minimal influence on charges. 
 
@@ -44,7 +44,7 @@ Tech Stack
 1. Python. 
 2. pandas, numpy. 
 3. matplotlib, seaborn. 
-4. cikit-learn (LinearRegression, train_test_split, metrics). 
+4. scikit-learn (LinearRegression, train_test_split, metrics). 
 5. Jupyter Notebook. 
 
 Repository Contents
