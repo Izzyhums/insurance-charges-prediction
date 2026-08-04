@@ -56,3 +56,9 @@ Team Datawise  Group 8, TechCrush Cohort 7 Data Science Capstone.
 
 License
 This project is for educational purposes as part of the TechCrush Data Science Capstone.
+
+## Live Demo
+
+Try the deployed prediction app here: [Insurance Charges Predictor](https://insurance-charges-app-8uelkxxgrtpsmwfpzujjrj.streamlit.app)
+
+Enter a person's age, sex, BMI, children, smoker status, and region to get an instant estimated insurance charge.
